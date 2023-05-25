@@ -1,0 +1,7 @@
+test:
+  image: cirrusci/flutter
+  stage: test
+  script:
+    - flutter test
+  tags:
+    - shared
