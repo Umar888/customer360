@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<title>Logout Complete</title>
+<p>Please close the window</p>
+<script>
+  window.opener.postMessage({
+    'flutter-web-auth': window.location.href
+  }, window.location.origin);
+  window.close();
+</script>

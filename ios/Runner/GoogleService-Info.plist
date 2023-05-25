@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1039464736797-rulgnr0ca10s9esif113m62lit5r8otl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1039464736797-rulgnr0ca10s9esif113m62lit5r8otl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDl26jabzqbTjUnct_aDbT04N-PPqhRXfU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1039464736797</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.guitarcenter.uatcustomer360</string>
+	<key>PROJECT_ID</key>
+	<string>customer360-14546</string>
+	<key>STORAGE_BUCKET</key>
+	<string>customer360-14546.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1039464736797:ios:74ec58427d7d5ab4bd7ef4</string>
+</dict>
+</plist>
